@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Hello there! I'm Fer, a passionate front-end web developer with a keen eye for design and a knack for crafting immersive user experiences.
+👨‍💻 Hello there! I'm Fer, a passionate front-end web developer with a keen eye for design and a knack for crafting immersive user experiences.
 
-[fervqz.com](https://fervqz.com)
+💻 [fervqz.com](https://fervqz.com)
 
 ### About me:
 - 📦 Creator of the package [@fervqz/just-a-stream](https://www.npmjs.com/package/@fervqz/just-a-stream), a light weight javascript lubrary for creating, transforming and merging streams.
