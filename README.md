@@ -2,9 +2,11 @@
 
 Hello there! I'm Fer, a passionate front-end web developer with a keen eye for design and a knack for crafting immersive user experiences.
 
+[fervqz.com](https://fervqz.com)
+
 ### About me:
-- 📦 I'm the creator of the package [@fervqz/just-a-stream](https://www.npmjs.com/package/@fervqz/just-a-stream), a light weight javascript lubrary for creating, transforming and merging streams.
-- 🔭 I’m currently working on [F1lmlog](https://f1lmlog.com/). A mobile app were you can save all the camera prperties and light conditions of an analog photo taken by you.
+- 📦 Creator of the package [@fervqz/just-a-stream](https://www.npmjs.com/package/@fervqz/just-a-stream), a light weight javascript lubrary for creating, transforming and merging streams.
+- 🔭 Currently working on [F1lmlog](https://f1lmlog.com/). A mobile app were you can save all the camera prperties and light conditions of an analog photo taken by you.
 
 ### Technologies I use:
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,astro,angular,nextjs,cypress,aws,tailwind,git)](https://skillicons.dev)
