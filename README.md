@@ -7,7 +7,7 @@ Hello there! I'm Fer, a passionate front-end web developer with a keen eye for d
 - 🔭 I’m currently working on [F1lmlog](https://f1lmlog.com/). A mobile app were you can save all the camera prperties and light conditions of an analog photo taken by you.
 
 ### Technologies I use:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,angular,nextjs,cypress,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,astro,angular,nextjs,cypress,aws,tailwind,git)](https://skillicons.dev)
 
 <!--
 **fervqz/fervqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
