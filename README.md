@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👨‍💻 Hello there! I'm Fer, a passionate front-end web developer with a keen eye for design and a knack for crafting immersive user experiences.
+👨‍💻 I'm Fer, a passionate front-end web developer with a keen eye for design and a knack for crafting immersive user experiences.
 - 💻 Check out my website [fervqz.com](https://fervqz.com).
 - ✏️ Take a look to my personal [Blog](http://blog.fervqz.com/).
 
@@ -15,15 +15,3 @@
 - ⌚️ I love watches, so I started an [instagram account](https://www.instagram.com/fers.watches/) to share this passion with others.
 - 📷 Photography is the way I have to share my worl's perspective, follow me on my [photography account](https://www.instagram.com/fervaas/)
 
-<!--
-**fervqz/fervqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
