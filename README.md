@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👨‍💻 I'm Fer, a passionate front-end web developer with a keen eye for design and a knack for crafting immersive user experiences.
+👨‍💻 I'm Fer, a passionate full-stack web developer with a keen eye for design and a knack for crafting immersive user experiences.
 - 💻 Check out my website [fervqz.com](https://fervqz.com).
 - ✏️ Take a look to my personal [Blog](http://blog.fervqz.com/).
 
